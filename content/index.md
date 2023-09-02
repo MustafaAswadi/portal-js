@@ -1,7 +1,6 @@
-# My Dataset
+# Welcome to my data portal Modified By Mustafa Aswadi!
 
-Built with PortalJS 
+List of available datasets:
 
-## Table 
-
-<Table url="data.csv" />
+- [My Awesome Dataset](/my-awesome-dataset)
+- [My Incredible Dataset](/my-incredible-dataset)
