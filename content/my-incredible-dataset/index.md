@@ -3,10 +3,6 @@ title: "My incredible dataset"
 group: "Incredible"
 ---
 
-# My Incredible Dataset
-
-This is my incredible dataset.
-
 ## Chart
 
 <LineChart
