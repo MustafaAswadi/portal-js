@@ -1,6 +1,5 @@
-# Welcome to my data portal Modified By Mustafa Aswadi!
+# Welcome to my data portal!
 
 List of available datasets:
 
-- [My Awesome Dataset](/my-awesome-dataset)
-- [My Incredible Dataset](/my-incredible-dataset)
+<Catalog datasets={datasets} facets={['group']} />
