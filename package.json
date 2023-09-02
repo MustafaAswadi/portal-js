@@ -12,6 +12,7 @@
     "mddb": "mddb ./content"
   },
   "dependencies": {
+    "@docsearch/react": "^3.5.2",
     "@githubocto/flat-ui": "^0.14.1",
     "@heroicons/react": "^2.0.17",
     "@opentelemetry/api": "^1.4.0",
